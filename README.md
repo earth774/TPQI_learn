@@ -1,5 +1,4 @@
-# Code TPQI 
-Share code Test TPQI 2017
+# Share Code Fast PHP Website  
+Share code Insert delect update in php 
 
-## Commit Edit
 
